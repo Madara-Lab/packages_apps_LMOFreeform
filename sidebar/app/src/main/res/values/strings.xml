@@ -60,4 +60,10 @@
     <string name="sidebar_launch_freeform">Freeform</string>
     <string name="sidebar_launch_fullscreen">Fullscreen</string>
     <string name="sidebar_launch_bubble">Bubble</string>
+
+    <!-- Sidebar autohide -->
+    <string name="sidebar_auto_hide_title">Auto-hide slider</string>
+    <string name="sidebar_auto_hide_summary">Fade the slider to nearly invisible when not in use</string>
+    <string name="sidebar_auto_hide_timeout_value">Hide after: %d s</string>
+    <string name="sidebar_auto_hide_timeout_summary">Slider fades after this many seconds of inactivity</string>
 </resources>
